@@ -1,7 +1,8 @@
 # Projeto Final TOTI - Análise de Dados
-![TOTI](https://github.com/muxeres/ciencia_dados/tree/master/images/logototi.png)
+![logototi](https://github.com/user-attachments/assets/ce29312b-ea6a-4d89-b76d-743f3f4c9f30)
 
-![TOTI](https://github.com/toti-br)
+
+TOTI (https://github.com/toti-br)
 
 Este repositório contém o projeto final de Análise de Dados realizado no curso da TOTI. O projeto foi desenvolvido para uma loja de computadores, utilizando várias técnicas de análise de dados e visualização. Os arquivos utilizados incluem arquivos Excel, um banco de dados SQLite (.db), códigos em Python e links para o Google Colab.
 
@@ -17,13 +18,9 @@ O objetivo deste projeto foi realizar uma análise de dados para uma loja de com
 - **/pdf**: Inclui relatórios em PDF com os resultados da análise.
 
 ### Imagem "Power BI"
-![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/relatorioVendas.jpg)
-
-![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/fabricantes.png)
-
-![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/produtos.png)
-
-
+![relatorioVendas](https://github.com/user-attachments/assets/4065a55a-74b9-4465-a7cf-f2fa1b9d124f)
+![fabricantes](https://github.com/user-attachments/assets/dd2b55d8-8cc0-4f17-910e-d20943fea00e)
+![produtos](https://github.com/user-attachments/assets/c0f29250-9f95-4461-8f4c-dbaa5ee75e76)
 
 ### Link para o Google Colab
 A análise completa pode ser acessada e executada no [Google Colab](https://colab.research.google.com/drive/1_kAQqYmyG5TABt4bQoqU-0SH5apqRvNY?usp=sharing).
@@ -43,9 +40,14 @@ Este projeto demonstra o uso de técnicas de análise de dados aplicadas a um ne
 
 ---
 
-Projeto desenvolvido por [Global Estrategy]
-![Carola Guerrero Luco,
+Projeto desenvolvido por ![Global Estrategy]
+Carola Guerrero Luco,
 Maria Gabriela Rumbos,
 Gabriela Nuñez Esteves,
 Zoileth Millan Sawalha,
-Mauleny Díaz](https://github.com/muxeres/ciencia_dados/tree/master/images/globalconsultoras.jpeg)
+Mauleny Díaz
+
+
+![globalconsultoras](https://github.com/user-attachments/assets/64695b86-d63b-47c2-a75d-c7049cc1731e)
+
+
