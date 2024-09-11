@@ -44,8 +44,8 @@ Este projeto demonstra o uso de técnicas de análise de dados aplicadas a um ne
 ---
 
 Projeto desenvolvido por [Global Estrategy]
-![Carola Guerrero Luco
-Maria Gabriela Rumbos
-Gabriela Nuñez Esteves
-Zoileth Millan Sawalha
+![Carola Guerrero Luco,
+Maria Gabriela Rumbos,
+Gabriela Nuñez Esteves,
+Zoileth Millan Sawalha,
 Mauleny Díaz](https://github.com/muxeres/ciencia_dados/tree/master/images/globalconsultoras.jpeg)
