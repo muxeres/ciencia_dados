@@ -1,6 +1,6 @@
 # Projeto Final TOTI - Análise de Dados
 ![TOTI](https://github.com/muxeres/ciencia_dados/tree/master/images/logototi.png)
-<img alt="<logo toti>" src="<https://github.com/muxeres/ciencia_dados/tree/master/images/logototi.png>">
+
 ![TOTI](https://github.com/toti-br)
 
 Este repositório contém o projeto final de Análise de Dados realizado no curso da TOTI. O projeto foi desenvolvido para uma loja de computadores, utilizando várias técnicas de análise de dados e visualização. Os arquivos utilizados incluem arquivos Excel, um banco de dados SQLite (.db), códigos em Python e links para o Google Colab.
@@ -22,7 +22,6 @@ O objetivo deste projeto foi realizar uma análise de dados para uma loja de com
 ![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/fabricantes.png)
 <img alt="<Power BI>" src="<https://github.com/muxeres/ciencia_dados/tree/master/images/fabricantes.png>">
 ![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/produtos.png)
-<img alt="<Power BI>" src="<https://github.com/muxeres/ciencia_dados/tree/master/images/produtos.png>">
 
 
 
@@ -46,4 +45,3 @@ Este projeto demonstra o uso de técnicas de análise de dados aplicadas a um ne
 
 Projeto desenvolvido por [Global Estrategy]
 ![Carola Guerrero Luco,Maria Gabriela Rumbos,Gabriela Nuñez Esteves,Zoileth Millan Sawalha,Mauleny Díaz](https://github.com/muxeres/ciencia_dados/tree/master/images/globalconsultoras.jpeg)
-<img alt="Consultora Global Estrategy" src="<https://github.com/muxeres/ciencia_dados/tree/master/images/globalconsultoras.jpeg>">
