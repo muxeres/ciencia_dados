@@ -12,10 +12,10 @@ O objetivo deste projeto foi realizar uma análise de dados para uma loja de com
 
 ## Estrutura do Repositório
 
-- **/imagens**: Contém as imagens usadas no projeto.
+- **/images**: Contém as imagens usadas no projeto e dos graficos resultado dos codigos 
 - **/dados**: Contém os arquivos .db e Excel usados para a análise.
 - **/códigos**: Contém os scripts em Python utilizados para processar e analisar os dados.
-- **/pdf**: Inclui relatórios em PDF com os resultados da análise.
+- **/pdf_pbix**: Inclui relatórios em PDF com os resultados da análise e o dashboard de Power BI.
 
 ### Imagem "Power BI"
 ![relatorioVendas](https://github.com/user-attachments/assets/4065a55a-74b9-4465-a7cf-f2fa1b9d124f)
