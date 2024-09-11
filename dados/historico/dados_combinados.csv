@@ -1,0 +1,11 @@
+Product_Code,Product_Name,Price,Manufacturer_Name,Price_cents
+1,Hard drive,240.0,Fujitsu,24000.0
+2,Memory,120.0,Winchester,12000.0
+3,ZIP drive,150.0,Iomega,15000.0
+4,Floppy disk,5.0,Winchester,500.0
+5,Monitor,240.0,Sony,24000.0
+6,DVD drive,180.0,Creative Labs,18000.0
+7,CD drive,90.0,Creative Labs,9000.0
+8,Printer,270.0,Hewlett-Packard,27000.0
+9,Toner cartridge,66.0,Hewlett-Packard,6600.0
+10,DVD burner,180.0,Creative Labs,18000.0
