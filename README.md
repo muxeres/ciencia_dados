@@ -18,9 +18,9 @@ O objetivo deste projeto foi realizar uma análise de dados para uma loja de com
 
 ### Imagem "Power BI"
 ![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/relatorioVendas.jpg)
-<img alt="<Power BI>" src="<https://github.com/muxeres/ciencia_dados/tree/master/images/relatorioVendas.jpg>">
+
 ![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/fabricantes.png)
-<img alt="<Power BI>" src="<https://github.com/muxeres/ciencia_dados/tree/master/images/fabricantes.png>">
+
 ![Power BI](https://github.com/muxeres/ciencia_dados/tree/master/images/produtos.png)
 
 
@@ -44,4 +44,8 @@ Este projeto demonstra o uso de técnicas de análise de dados aplicadas a um ne
 ---
 
 Projeto desenvolvido por [Global Estrategy]
-![Carola Guerrero Luco,Maria Gabriela Rumbos,Gabriela Nuñez Esteves,Zoileth Millan Sawalha,Mauleny Díaz](https://github.com/muxeres/ciencia_dados/tree/master/images/globalconsultoras.jpeg)
+![Carola Guerrero Luco
+Maria Gabriela Rumbos
+Gabriela Nuñez Esteves
+Zoileth Millan Sawalha
+Mauleny Díaz](https://github.com/muxeres/ciencia_dados/tree/master/images/globalconsultoras.jpeg)
