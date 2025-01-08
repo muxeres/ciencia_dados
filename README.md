@@ -28,7 +28,7 @@ A análise completa pode ser acessada e executada no [Google Colab](https://cola
 
 ## Arquivos Importantes
 
-- [Relatório Final em PDF](./pdf_pbix/InfinityHardware.pdf)
+
 - [Relatório Final em POWER BI](./pdf_pbix/computerStore.pbix)
 - [Código de Análise de Dados](./codigos/projetolojacomputadores.py)
 - [Banco de Dados SQLite](./dados/computer_store_Final.db)
@@ -40,14 +40,9 @@ Este projeto demonstra o uso de técnicas de análise de dados aplicadas a um ne
 
 ---
 
-Projeto desenvolvido por ![Global Estrategy]
+Projeto desenvolvido por 
 Carola Guerrero Luco,
-Maria Gabriela Rumbos,
-Gabriela Nuñez Esteves,
-Zoileth Millan Sawalha,
-Mauleny Díaz
 
 
-![globalconsultoras](https://github.com/user-attachments/assets/64695b86-d63b-47c2-a75d-c7049cc1731e)
 
 
